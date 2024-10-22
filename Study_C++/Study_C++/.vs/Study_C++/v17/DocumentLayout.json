@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sheepfold\\Study_C\u002B\u002B\\Study_C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC452A8-3F99-47DC-AEB8-7FE8EC4BBA0B}|HelloWorld\\HelloWorld.vcxproj|D:\\Sheepfold\\Study_C\u002B\u002B\\Study_C\u002B\u002B\\HelloWorld\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEC452A8-3F99-47DC-AEB8-7FE8EC4BBA0B}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC452A8-3F99-47DC-AEB8-7FE8EC4BBA0B}|HelloWorld\\HelloWorld.vcxproj|D:\\Sheepfold\\Study_C\u002B\u002B\\Study_C\u002B\u002B\\HelloWorld\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEC452A8-3F99-47DC-AEB8-7FE8EC4BBA0B}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "D:\\Sheepfold\\Study_C\u002B\u002B\\Study_C\u002B\u002B\\HelloWorld\\Log.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\Log.cpp",
+              "ToolTip": "D:\\Sheepfold\\Study_C\u002B\u002B\\Study_C\u002B\u002B\\HelloWorld\\Log.cpp",
+              "RelativeToolTip": "HelloWorld\\Log.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T15:54:50.084Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Sheepfold\\Study_C\u002B\u002B\\Study_C\u002B\u002B\\HelloWorld\\main.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\main.cpp",
+              "ToolTip": "D:\\Sheepfold\\Study_C\u002B\u002B\\Study_C\u002B\u002B\\HelloWorld\\main.cpp",
+              "RelativeToolTip": "HelloWorld\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T09:12:27.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
